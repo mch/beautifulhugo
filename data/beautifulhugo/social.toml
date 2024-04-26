@@ -208,3 +208,9 @@ id = "angellist"
 url = "https://www.angel.co/p/%s"
 title = "AngelList"
 icon = "fab fa-angellist"
+
+[[social_icons]]
+id = "bluesky"
+url = "https://bsky.app/profile/%s"
+title = "Bluesky"
+icon = "fab fa-bluesky"
